@@ -1,6 +1,4 @@
-Here's your README — copy and paste this into your `README.md` file in VS Code:
 
-```markdown
 # TCP Multi-Client Chat Server
 
 A real-time terminal chat application built from scratch using raw Python sockets and threading. Multiple clients can connect simultaneously and broadcast messages to each other through a central server.
